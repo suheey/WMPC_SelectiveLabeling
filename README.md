@@ -1,2 +1,2 @@
 # Selective_Labeling_Wafer_Map
-Selective Batch Labeling of Wafer Map
+Clustering based Selective Batch Labeling for wafer map classification
